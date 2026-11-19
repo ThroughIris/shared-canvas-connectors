@@ -2,7 +2,7 @@
 
 Connect Codex or Claude Code to your own [Shared Canvas](https://sharedcanvas.ai/) account to find, read and edit canvases you already have permission to use.
 
-**Beta for existing Shared Canvas accounts.** This is the Shared Canvas GitHub marketplace, not a listing in an official Codex or Claude directory. You'll need an existing Shared Canvas account that you can sign in to. New-account email signup has not been verified as part of this beta.
+**Public beta.** This is the Shared Canvas GitHub marketplace, not a listing in an official Codex or Claude directory. You'll need a Shared Canvas account. If you're new, create one on the [Shared Canvas homepage](https://sharedcanvas.ai/) and confirm your email before connecting.
 
 ## Codex CLI
 
