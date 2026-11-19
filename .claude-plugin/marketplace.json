@@ -1,0 +1,13 @@
+{
+  "name": "shared-canvas",
+  "owner": {
+    "name": "Shared Canvas"
+  },
+  "plugins": [
+    {
+      "name": "shared-canvas",
+      "source": "./plugins/shared-canvas",
+      "description": "Connect your own Shared Canvas account to work with your private canvases."
+    }
+  ]
+}

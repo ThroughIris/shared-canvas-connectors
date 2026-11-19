@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "sharedcanvas": {
+      "type": "streamable-http",
+      "url": "https://sharedcanvas.ai/api/canvas-mcp/mcp"
+    }
+  }
+}

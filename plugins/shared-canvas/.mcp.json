@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sharedcanvas": {
+      "type": "http",
+      "url": "https://sharedcanvas.ai/api/canvas-mcp/mcp",
+      "oauth": {
+        "scopes": "account:access canvases:read canvases:write agents:read",
+        "clientId": "https://claude.ai/oauth/claude-code-client-metadata"
+      }
+    }
+  }
+}

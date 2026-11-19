@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "shared-canvas",
+  "version": "0.1.0",
+  "description": "Connect your own Shared Canvas account to work with your private canvases.",
+  "author": {
+    "name": "Shared Canvas"
+  },
+  "homepage": "https://sharedcanvas.ai",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Shared Canvas",
+        "shortDescription": "Work with your private Shared Canvas workspace",
+        "developerName": "Shared Canvas",
+        "category": "Productivity"
+      }
+    }
+  }
+}

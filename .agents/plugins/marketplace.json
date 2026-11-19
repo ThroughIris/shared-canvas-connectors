@@ -1,0 +1,20 @@
+{
+  "name": "shared-canvas",
+  "interface": {
+    "displayName": "Shared Canvas"
+  },
+  "plugins": [
+    {
+      "name": "shared-canvas",
+      "source": {
+        "source": "local",
+        "path": "./plugins/shared-canvas"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
